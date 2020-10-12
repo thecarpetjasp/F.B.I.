@@ -19,7 +19,7 @@ Go to https://ekata.com/ -- Create a free account and generate your API keys for
 
 
 **Step (4):**
-`sudo nano F.B.I..py` Insert API keys into designated areas
+`sudo nano fbi.py` Insert API keys into designated areas
 ![api](https://user-images.githubusercontent.com/71789855/95723765-0597d980-0c65-11eb-91ab-e3bea527ebe1.png)
 
 
