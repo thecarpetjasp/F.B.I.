@@ -68,7 +68,7 @@ def main():
             print (Fore.WHITE + color.BOLD)
             state_code = input('State code: ' + color.END + Fore.YELLOW)
             print (Fore.WHITE + color.BOLD)
-            post_code = input('Postal Code: ' + color.BOLD + Fore.YELLOW)
+            post_code = input('Postal Code: ' + color.END + Fore.YELLOW)
             new_post_code = (post_code.replace(" ", ""))
             print (Fore.WHITE + color.BOLD)
             country_code = input('Country code ' + color.END + Fore.WHITE + '(Eg: ' + Fore.YELLOW +  'US' + Fore.WHITE + ',' + Fore.YELLOW + ' UK' + Fore.WHITE + ' etc.): ' + Fore.YELLOW)
