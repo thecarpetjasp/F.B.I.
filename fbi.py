@@ -9,9 +9,9 @@ from colorama import Fore, Style
 #Please enter your API keys below. Make sure to insert inbetween the "Quotation Marks".
 #######################################################################################
 global API_KEY_ADDRESS, API_KEY_EMAIL, API_KEY_PHONE
-API_KEY_ADDRESS = ("dbbf5d6436264583b0a9b8154646d88c")
-API_KEY_EMAIL = ("c6893465782b48f18e09d9792e004c44")
-API_KEY_PHONE = ("a6f264c5c58843f0b7332593a6c52579")
+API_KEY_ADDRESS = ("")
+API_KEY_EMAIL = ("")
+API_KEY_PHONE = ("")
 
 class color:
     PURPLE = '\033[95m'
