@@ -24,7 +24,7 @@ Go to https://ekata.com/ -- Create a free account and generate your API keys for
 
 
 
-**Step (3):**
+**Step (5):**
 `sudo python3 install.py`
 #
 **Now enjoy the program:**
