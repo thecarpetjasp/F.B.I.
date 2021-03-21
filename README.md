@@ -16,7 +16,7 @@ Find. Big. Info. (F.B.I.) - A Python script capable of 'Reverse Search Address',
 `cd F.B.I.`
 
 
-**Step (3):** (EXPIRED)
+**Step (3):** **(EXPIRED)**
 Go to https://ekata.com/ -- Create a free account and generate your API keys for 'Reverse Search Address', 'Reverse Search Email' and 'Reverse Search Phone Number'
 
 
