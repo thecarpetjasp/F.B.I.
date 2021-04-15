@@ -1,7 +1,7 @@
 ![banner](https://user-images.githubusercontent.com/71789855/95723694-f2850980-0c64-11eb-978d-bedb903060a9.png)                         
 Find. Big. Info. (F.B.I.) - A Python script capable of 'Reverse Search Address', 'Reverse Search Email Address' and 'Reverse Search Phone Number
 
-(UPDATE) Ekata seem to have removed their reverse search address, email and phone API keys. That mean's currently, the below steps will not work in getting 'fbi' to work. I'm currently working on the program so that no api keys will be required, therefore you can just download the program and use all features fbi has to offer without no set-up. Please stay updated with this page until I've completed this. Thank you!
+(UPDATE) Ekata seem to have removed their reverse search address, email and phone API keys. That mean's currently, the below steps will not work in getting 'fbi' to work. I'm currently working on the program so that no api keys will be required, therefore you can just download the program and use all features fbi has to offer with no set-up. Please stay updated with this page until I've completed this. Thank you!
 
 #
 
