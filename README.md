@@ -1,7 +1,7 @@
 ![banner](https://user-images.githubusercontent.com/71789855/141158284-106f6502-d390-4946-8081-3a144faaffcc.png)                        
 Find. Big. Info. (F.B.I.) - A Python script capable of 'Reverse Search Address', 'Reverse Search Email Address' and 'Reverse Search Phone Number
 
-(UPDATE) The Ekata API keys are now obsolete. This is sad news as I was hoping for a way to resolve this issue for everyone so that F.B.I. could be used by everyone. Unfortunately, there isn't any way for this to work without the old Ekata API keys. Please continue to use this project as a reference if you are interested in creating something similar yourself.
+(UPDATE) The Ekata API keys are now obsolete. This is sad news as I was hoping for a way to resolve this issue for you all so that F.B.I. could be used by everyone. Unfortunately, there isn't any way for this to work without the old Ekata API keys. Please continue to use this project as a reference if you are interested in creating something similar yourself.
 
 #
 
