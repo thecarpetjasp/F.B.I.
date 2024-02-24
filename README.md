@@ -36,5 +36,7 @@ Go to https://ekata.com/ -- Create a free account and generate your API keys for
 
 ![end](https://user-images.githubusercontent.com/71789855/141158287-b9826be7-71ee-44e8-a47b-18bae9890554.png)
 
+# NOTES
+I uploaded this repository 4 years ago, quite close to the start of my programming journey. There are noticeable inefficiencies throughout the code.
 
-
+Unfortunately, as this program will no longer function without the obsolete Ekata API keys, I have decided not to refine this project.
